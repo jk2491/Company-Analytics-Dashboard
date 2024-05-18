@@ -1,0 +1,5 @@
+Created interactive dashboard to track and analyze about employee Attrition data.
+Used some parameters to find what is the main factor behind of attrition.
+Used complex parameters to drill down in worksheet and customizaton using filter and slicers.
+Used different types of customized visualizaton (bar chart, pie chart, donut chart, pie chart, graph chart and more).
+Created connection, join tables, some calculations to to manipulate data and enables user driven parameterfor visualizations.
